@@ -1,0 +1,4 @@
+Config = {
+    Screenshot = false,
+    DiscordWebhook = '',
+}
